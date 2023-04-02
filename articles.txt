@@ -7,3 +7,15 @@ Data transmission speed is typically measured in bits per second (bps) or bytes 
 Data transmission can be asynchronous or synchronous, depending on whether the sender and receiver are synchronized in their timing. Asynchronous data transmission involves transmitting each character or bit separately, while synchronous transmission involves transmitting data in blocks or frames. Full-duplex transmission allows for simultaneous transmission and reception of data, while half-duplex transmission allows for only one direction of data transmission at a time.
 
 Overall, data transmission is a complex and multifaceted topic, with many different methods, technologies, and protocols involved. However, at its core, data transmission is about enabling the exchange of information between devices, networks, and individuals, and is a critical component of modern communication and technology.
+
+to help me write this article, i read Data communication and Networking and produced this summary.
+
+"Data Communications and Networking" is a comprehensive textbook written by Behrouz A. Forouzan that covers the fundamental concepts and technologies behind data communications and networking. The book is aimed at undergraduate and graduate students in computer science, information technology, and related fields, as well as professionals seeking to expand their knowledge in these areas.
+
+The book is divided into seven parts, covering topics such as networking basics, transmission media, network architectures, protocols, wireless networking, network security, and the Internet. Each chapter provides clear and detailed explanations of the concepts involved, as well as examples and exercises to help students understand and apply the material.
+
+One of the strengths of the book is its focus on both theoretical and practical aspects of data communications and networking. The author emphasizes the importance of understanding the underlying principles and concepts, while also providing practical examples and applications that help students see how these concepts are used in real-world settings.
+
+Another strength of the book is its coverage of a wide range of topics. In addition to the core networking technologies, the book also covers emerging areas such as wireless networking, multimedia networking, and network security. This makes the book a valuable resource for students and professionals seeking a comprehensive understanding of the field.
+
+Overall, "Data Communications and Networking" is a highly regarded textbook that provides a comprehensive introduction to the field of data communications and networking. Its clear explanations, practical examples, and broad coverage make it a valuable resource for students and professionals alike.
