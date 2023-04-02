@@ -10,6 +10,8 @@ Overall, data transmission is a complex and multifaceted topic, with many differ
 
 to help me write this article, i read Data communication and Networking and produced this summary.
 
+Resumo do livro
+
 "Data Communications and Networking" is a comprehensive textbook written by Behrouz A. Forouzan that covers the fundamental concepts and technologies behind data communications and networking. The book is aimed at undergraduate and graduate students in computer science, information technology, and related fields, as well as professionals seeking to expand their knowledge in these areas.
 
 The book is divided into seven parts, covering topics such as networking basics, transmission media, network architectures, protocols, wireless networking, network security, and the Internet. Each chapter provides clear and detailed explanations of the concepts involved, as well as examples and exercises to help students understand and apply the material.
